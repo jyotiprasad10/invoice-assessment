@@ -5,8 +5,8 @@ import styles from "./Form.module.css";
 import ActionButtons from "../ActionButtons/ActionButtons";
 import logo from "../../assets/fileUpload.svg";
 import vendor from "../../assets/Vendor.svg"
-import invoice from '"../../assets/Invoice.svg"'
-import comments from '"../../assets/Comments.svg"'
+import invoice from "../../assets/Invoice.svg"
+import comments from "../../assets/Comments.svg"
 
 const Form = () => {
   const [file, setFile] = useState(null);
