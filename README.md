@@ -24,7 +24,7 @@ LocalStorage for data persistence.
 
  To run the application you can clone the repo and use npm start.
 
- The app has been deployed using Netlify on the url - https://invoiceassessmentjyotiprasad.netlify.app/main.
+ The app has been deployed using Netlify on the url - https://invoiceassessmentjyotiprasad.netlify.app.
 
  Also You can use the form in the resolution of 1800 X 2000. I have kept the resolution like this so that you can also access the localStorage in the Application tab using the Inspect buttton. I have tried to make the app as responsive as possible, but did not have the dimensions for smaller sizes, so I please request you to access it in the above give dimesnions, these are in according to accommodate the form as per the figma design.
 
