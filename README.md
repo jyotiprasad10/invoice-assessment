@@ -26,7 +26,7 @@ LocalStorage for data persistence.
 
  The app has been deployed using Netlify on the url - https://invoiceassessmentjyotiprasad.netlify.app/main.
 
- Also You can use the form bes in the resolution of 1800 X 2000. I have kept the resolution like this so that you can also access the localStorage in the Application tab using the Inspect buttton.
+ Also You can use the form in the resolution of 1800 X 2000. I have kept the resolution like this so that you can also access the localStorage in the Application tab using the Inspect buttton. I have tried to make the app as responsive as possible, but did not have the dimensions for smaller sizes, so I please request you to access it in the above give dimesnions, these are in according to accommodate the form as per the figma design.
 
  I am adding som screenshots in the Description Section of the GitHub Repo for your ready reference. Do let me know what you think about the application and I would be very pleased to be given a chance to interview with your prestigious organisation.
 
