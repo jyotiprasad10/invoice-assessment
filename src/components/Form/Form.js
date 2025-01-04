@@ -4,9 +4,9 @@ import { useNavigate } from "react-router-dom";
 import styles from "./Form.module.css";
 import ActionButtons from "../ActionButtons/ActionButtons";
 import logo from "../../assets/fileUpload.svg";
-import vendor from '/Users/jyotiprasadpatil/Documents/Jyotiprasad Patil Saarland/Working Student Jobs/invoice-assessment/src/assets/Vendor.svg'
-import invoice from '/Users/jyotiprasadpatil/Documents/Jyotiprasad Patil Saarland/Working Student Jobs/invoice-assessment/src/assets/Invoice.svg'
-import comments from '/Users/jyotiprasadpatil/Documents/Jyotiprasad Patil Saarland/Working Student Jobs/invoice-assessment/src/assets/Comments.svg'
+import vendor from "../../assets/Vendor.svg"
+import invoice from '"../../assets/Invoice.svg"'
+import comments from '"../../assets/Comments.svg"'
 
 const Form = () => {
   const [file, setFile] = useState(null);
